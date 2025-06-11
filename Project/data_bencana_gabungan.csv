@@ -1,0 +1,107 @@
+tahun,provinsi,gempa_bumi,tsunami,gempa_tsunami,letusan_gunung,tanah_longsor,banjir,kekeringan,karhutla,cuaca_ekstrem,gelombang_pasang
+2021,Aceh,0,0,0,0,11,100,0,77,91,0
+2021,Sumatera Utara,0,0,0,0,23,83,0,13,54,0
+2021,Sumatera Barat,1,0,0,0,18,58,1,16,118,0
+2021,Riau,0,0,0,0,7,67,0,44,24,6
+2021,Jambi,0,0,0,0,11,37,0,24,24,3
+2021,Sumatera Selatan,0,0,0,0,4,39,0,24,24,1
+2021,Bengkulu,0,0,0,0,9,25,0,0,11,0
+2021,Lampung,0,0,0,0,5,25,0,0,46,0
+2021,Kepulauan Bangka Belitung,0,0,0,0,2,15,0,10,13,0
+2021,Kepulauan Riau,0,0,0,0,5,14,0,79,6,3
+2021,DKI Jakarta,0,0,0,0,14,20,0,0,16,0
+2021,Jawa Barat,1,0,0,0,613,247,4,14,478,1
+2021,Jawa Tengah,2,0,0,0,238,153,4,13,206,6
+2021,DI Yogyakarta,1,0,0,0,17,6,0,0,2,0
+2021,Jawa Timur,4,0,0,1,76,149,5,8,122,1
+2021,Banten,0,0,0,0,14,57,0,3,39,0
+2021,Bali,1,0,0,0,63,13,1,1,8,7
+2021,Nusa Tenggara Barat,0,0,0,0,10,79,0,0,17,6
+2021,Nusa Tenggara Timur,1,0,0,0,24,59,0,1,28,3
+2021,Kalimantan Barat,0,0,0,0,4,45,0,10,9,1
+2021,Kalimantan Tengah,0,0,0,0,0,0,0,0,0,0
+2021,Kalimantan Selatan,0,0,0,0,12,62,0,165,32,1
+2021,Kalimantan Timur,0,0,0,0,46,36,0,29,7,1
+2021,Kalimantan Utara,0,0,0,0,32,16,0,8,3,1
+2021,Sulawesi Utara,1,0,0,0,3,23,0,1,13,7
+2021,Sulawesi Tengah,2,0,0,0,4,96,0,0,36,11
+2021,Sulawesi Selatan,1,0,0,0,24,68,0,0,90,3
+2021,Sulawesi Tenggara,0,0,0,0,8,38,0,0,21,6
+2021,Gorontalo,0,0,0,0,7,22,0,0,10,0
+2021,Sulawesi Barat,3,0,0,0,4,23,0,0,9,6
+2021,Maluku,6,0,0,0,14,23,0,0,19,5
+2021,Maluku Utara,1,0,0,0,2,20,0,0,10,4
+2021,Papua Barat,0,0,0,0,1,5,0,1,1,0
+2021,Papua,0,0,0,0,1,20,0,0,3,6
+2022,Aceh,0,0,0,0,9,110,0,51,51,1
+2022,Sumatera Utara,2,0,0,0,6,71,0,0,28,0
+2022,Sumatera Barat,4,0,0,0,7,24,0,8,34,1
+2022,Riau,0,0,0,0,6,41,0,34,11,4
+2022,Jambi,0,0,0,0,0,4,0,4,1,0
+2022,Sumatera Selatan,0,0,0,0,9,37,0,31,26,0
+2022,Bengkulu,0,0,0,0,2,36,0,0,6,0
+2022,Lampung,0,0,0,0,7,36,0,0,27,0
+2022,Kepulauan Bangka Belitung,0,0,0,0,0,6,0,13,27,1
+2022,Kepulauan Riau,0,0,0,0,0,3,0,1,7,0
+2022,DKI Jakarta,0,0,0,0,3,10,0,0,3,0
+2022,Jawa Barat,6,0,0,0,305,185,3,5,316,1
+2022,Jawa Tengah,0,0,0,0,141,181,1,0,83,0
+2022,DI Yogyakarta,0,0,0,0,4,7,0,0,18,0
+2022,Jawa Timur,2,0,0,1,56,153,0,30,157,1
+2022,Banten,1,0,0,0,2,52,0,1,24,0
+2022,Bali,2,0,0,0,15,11,0,0,6,0
+2022,Nusa Tenggara Barat,0,0,0,0,2,26,0,0,18,0
+2022,Nusa Tenggara Timur,0,0,0,0,3,31,0,1,8,2
+2022,Kalimantan Barat,0,0,0,0,2,40,0,10,5,0
+2022,Kalimantan Tengah,0,0,0,0,0,47,0,25,4,0
+2022,Kalimantan Selatan,0,0,0,0,3,54,0,29,20,0
+2022,Kalimantan Timur,0,0,0,0,10,28,0,4,4,0
+2022,Kalimantan Utara,0,0,0,0,5,13,0,3,1,0
+2022,Sulawesi Utara,1,0,0,0,7,28,0,0,0,2
+2022,Sulawesi Tengah,0,0,0,0,2,88,0,0,6,3
+2022,Sulawesi Selatan,1,0,0,0,19,54,0,0,71,0
+2022,Sulawesi Tenggara,1,0,0,0,1,17,0,0,5,2
+2022,Gorontalo,0,0,0,0,0,32,0,0,1,0
+2022,Sulawesi Barat,1,0,0,0,4,27,0,0,3,0
+2022,Maluku,2,0,0,0,1,19,0,0,4,7
+2022,Maluku Utara,2,0,0,0,2,33,0,0,8,0
+2022,Papua Barat,0,0,0,0,0,19,0,0,1,1
+2022,Papua,1,0,0,0,0,6,0,0,1,0
+2023,Aceh,0,0,0,0,9,97,1,77,51,1
+2023,Sumatera Utara,1,0,0,0,19,112,0,41,44,0
+2023,Sumatera Barat,1,0,0,1,14,72,1,14,33,0
+2023,Riau,1,0,0,0,3,79,0,168,8,1
+2023,Jambi,0,0,0,0,4,24,0,56,8,1
+2023,Sumatera Selatan,0,0,0,0,3,28,1,29,24,0
+2023,Bengkulu,1,0,0,0,6,11,2,11,7,0
+2023,Lampung,0,0,0,0,3,19,1,28,23,0
+2023,Kepulauan Bangka Belitung,0,0,0,0,1,12,1,89,22,0
+2023,Kepulauan Riau,0,0,0,0,2,11,1,71,17,3
+2023,DKI Jakarta,0,0,0,0,7,7,0,0,3,0
+2023,Jawa Barat,13,0,0,0,185,107,61,152,326,0
+2023,Jawa Tengah,2,0,0,1,125,95,31,204,171,0
+2023,DI Yogyakarta,1,0,0,0,24,6,1,87,57,0
+2023,Jawa Timur,1,0,0,0,5,41,1,27,59,0
+2023,Banten,0,0,0,0,1,28,4,10,19,0
+2023,Bali,2,0,0,0,23,5,9,15,13,0
+2023,Nusa Tenggara Barat,0,0,0,0,24,69,9,2,52,0
+2023,Nusa Tenggara Timur,3,0,0,1,10,29,2,14,50,4
+2023,Kalimantan Barat,0,0,0,0,2,37,0,72,5,0
+2023,Kalimantan Tengah,0,0,0,0,3,40,0,147,7,5
+2023,Kalimantan Selatan,0,0,0,0,8,48,2,437,43,1
+2023,Kalimantan Timur,0,0,0,0,26,33,1,186,6,0
+2023,Kalimantan Utara,0,0,0,0,14,19,0,40,2,0
+2023,Sulawesi Utara,0,0,0,1,2,16,2,4,7,0
+2023,Sulawesi Tengah,2,0,0,0,5,61,2,10,20,5
+2023,Sulawesi Selatan,0,0,0,0,32,52,12,27,142,2
+2023,Sulawesi Tenggara,0,0,0,0,0,3,3,1,4,1
+2023,Gorontalo,0,0,0,0,0,21,21,6,5,0
+2023,Sulawesi Barat,0,0,0,0,17,14,1,7,20,1
+2023,Maluku,1,0,0,0,9,19,3,13,4,0
+2023,Maluku Utara,2,0,0,0,1,27,0,0,8,5
+2023,Papua Barat,0,0,0,0,1,1,0,6,1,0
+2023,Papua Barat Daya,0,0,0,0,0,5,0,0,0,0
+2023,Papua,2,0,0,0,2,4,0,0,0,3
+2023,Papua Selatan,0,0,0,0,0,2,0,0,0,0
+2023,Papua Tengah,0,0,0,0,0,0,1,0,0,0
+2023,Papua Pegunungan,0,0,0,0,1,1,0,0,0,0
