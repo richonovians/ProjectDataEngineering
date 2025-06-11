@@ -22,7 +22,7 @@ Hasil akhir dari proyek ini adalah dataset bersih yang dilengkapi dengan label k
 ---
 
 ## Serving Analisis  
-Data hasil ETL disimpan dalam format CSV yang bersih dan terstruktur, sehingga siap digunakan untuk analisis eksploratif dan pemodelan lanjutan. Dataset ini dapat dengan mudah dimuat ke dalam Power BI dan Looker Studio untuk keperluan visualisasi interaktif, pelacakan tren, serta pemetaan tingkat kerawanan bencana secara geografis dan temporal. Visualisasi ini membantu pengambil kebijakan dan pemangku kepentingan memahami distribusi risiko bencana secara lebih intuitif dan berbasis data.
+Data hasil ETL disimpan dalam format CSV yang bersih dan terstruktur, sehingga siap digunakan untuk analisis eksploratif dan pemodelan lanjutan. Dataset ini dapat dengan mudah dimuat ke dalam Looker Studio untuk keperluan visualisasi interaktif, pelacakan tren, serta pemetaan tingkat kerawanan bencana secara geografis dan temporal. Visualisasi ini membantu pengambil kebijakan dan pemangku kepentingan memahami distribusi risiko bencana secara lebih intuitif dan berbasis data.
 
 ## Serving Machine Learning  
 Dataset yang telah dibersihkan dan distandardisasi digunakan untuk melatih model klasifikasi menggunakan pustaka PyCaret. Berbagai algoritma klasifikasi dievaluasi secara otomatis untuk mengidentifikasi model terbaik dalam memprediksi status kerawanan bencana provinsi berdasarkan data kejadian bencana alam. Model terbaik yang terpilih digunakan untuk menghasilkan prediksi pada seluruh dataset historis dan disimpan untuk kebutuhan deployment atau analisis lanjutan.
